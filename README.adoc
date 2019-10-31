@@ -1,0 +1,3 @@
+== Conjure shadow-cljs example
+
+This isn't working just yet, awaiting a small patch in shadow-cljs, almost there though!
